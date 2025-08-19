@@ -82,9 +82,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=vector&logoColor=white)
 
-### 📊 Estadísticas de GitHub
 
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ff6b6b&title_color=ff6b6b)
 
 
 
