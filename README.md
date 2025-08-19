@@ -1,212 +1,108 @@
-# 💀 DAMIAN - El Nigromante del Código
+# 💀 DAMIAN - Full Stack Developer
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                    🏰 CASTILLO GÓTICO 🏰                    ║
 ║                                                              ║
-║                        ████████████                          ║
-║                       ██████████████                         ║
-║                      ████████████████                        ║
-║                     ██████████████████                       ║
-║                    ████████████████████                      ║
-║                   ██████████████████████                     ║
-║                  ████████████████████████                    ║
-║                 ██████████████████████████                   ║
-║                ████████████████████████████                  ║
-║               ██████████████████████████████                 ║
-║              ████████████████████████████████                ║
-║             ██████████████████████████████████               ║
-║            ████████████████████████████████████              ║
-║           ██████████████████████████████████████             ║
-║          ████████████████████████████████████████            ║
-║         ██████████████████████████████████████████           ║
-║        ████████████████████████████████████████████          ║
-║       ██████████████████████████████████████████████         ║
-║      ████████████████████████████████████████████████        ║
-║     ██████████████████████████████████████████████████       ║
-║    ████████████████████████████████████████████████████      ║
-║   ██████████████████████████████████████████████████████     ║
-║  ████████████████████████████████████████████████████████    ║
-║ ██████████████████████████████████████████████████████████   ║
-║█████████████████████████████████████████████████████████████ ║
+║                        /===\                                ║
+║                       /=====\                               ║
+║                      /=======\                              ║
+║                     /=========\                             ║
+║                    /===========\                            ║
+║                   /=============\                           ║
+║                  /===============\                          ║
+║                 /=================\                         ║
+║                /===================\                        ║
+║               /=====================\                       ║
+║              /=======================\                      ║
+║             /=========================\                     ║
+║            /===========================\                    ║
+║           /=============================\                   ║
+║          /===============================\                  ║
+║         /=================================\                 ║
+║        /===================================\                ║
+║       /=====================================\               ║
+║      /=======================================\              ║
+║     /=========================================\             ║
+║    /===========================================\            ║
+║   /=============================================\           ║
+║  /===============================================\          ║
+║ /=================================================\         ║
+║/===================================================\        ║
 ║                                                              ║
-║        🖤 El Nigromante del Código Oscuro 🖤               ║
+║        🖤 Full Stack Developer & AI Enthusiast 🖤          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## ⚰️ *"En las profundidades del código, donde las sombras cobran vida"*
+## 🚀 *"Desarrollador Full Stack apasionado por la IA y la automatización"*
 
-### 🖤 Sobre el Nigromante
+### 🛠️ Tecnologías que Domino
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🔮  Mago del Full Stack - Tejiendo hechizos digitales     │
-│  ⚔️  Cazador de Bugs - Persiguiendo errores en la oscuridad │
-│  🧙‍♂️  Alquimista Digital - Transformando ideas en realidades│
-│  🛡️  Guardián de la Seguridad - Protegiendo reinos digitales│
-│  🦇  Señor de la Noche - Desarrollando en las sombras       │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### ⚔️ Arsenal del Guerrero Digital
-
-#### 🗡️ Frontend - Las Armas del Guerrero
-```
-╭─────────────────────────────────────────────────────────────╮
-│  ⚔️  HTML5  │  🛡️  CSS3  │  🔮  JavaScript  │  ⚰️  TypeScript  │
-│  🖤  Angular │  💀  React │  ⚰️  Vue.js      │  🗡️  Svelte      │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+#### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6B35?style=for-the-badge&logo=primeng&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🧙‍♂️ Backend - Los Poderes del Mago Oscuro
-```
-╭─────────────────────────────────────────────────────────────╮
-│  🔮  Node.js  │  ⚰️  Express  │  🖤  PHP  │  💀  Python  │
-╰─────────────────────────────────────────────────────────────╯
-```
-
+#### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🗝️ Criptas de Datos - Los Secretos Enterrados
-```
-╭─────────────────────────────────────────────────────────────╮
-│  ⚰️  MySQL  │  🖤  PostgreSQL  │  💀  MongoDB  │
-╰─────────────────────────────────────────────────────────────╯
-```
+#### 🤖 Inteligencia Artificial & Automatización
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge&logo=qdrant&logoColor=white)
 
+#### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=vector&logoColor=white)
 
-#### 🔮 Herramientas del Nigromante
-```
-╭─────────────────────────────────────────────────────────────╮
-│  ⚔️  Git  │  🖤  Docker  │  💀  AWS  │  ⚰️  GitHub  │
-╰─────────────────────────────────────────────────────────────╯
-```
+### 📊 Estadísticas de GitHub
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ff6b6b&title_color=ff6b6b)
 
-### 📊 Grimorio de Estadísticas Oscuras
+### 🏆 Proyectos Destacados
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                💀 ESTADÍSTICAS DEL NIGROMANTE              │
-└─────────────────────────────────────────────────────────────┘
-```
+#### 🗺️ [Mind-Map Visualizer](https://github.com/Damian211997/Mind-Map)
+Template interactivo para crear mindmaps visuales con funcionalidades de drag & drop.
 
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ff6b6b&title_color=ff6b6b&border_color=ff6b6b)
+#### 🏪 [Sistema de Lubricentro](https://github.com/Damian211997/lubricentro)
+Sistema completo de gestión empresarial con frontend, backend y panel administrativo.
 
-### 🏰 Reliquias y Templos Sagrados
+### 🌟 Áreas de Especialización
 
-#### 💀 [Mind-Map Necromancer](https://github.com/Damian211997/Mind-Map)
-```
-╭─────────────────────────────────────────────────────────────╮
-│  🔮  Un mapa de las mentes, donde los pensamientos cobran   │
-│      vida y las ideas se materializan en el reino digital   │
-│  ⚰️  Template interactivo con drag & drop de las sombras    │
-│  🖤  Reutilizable para nigromantes de la mente              │
-╰─────────────────────────────────────────────────────────────╯
-```
+- **🤖 Automatizaciones con IA** - Integración de modelos de IA en workflows
+- **🧠 Entrenamiento de Modelos** - Desarrollo y optimización de modelos de machine learning
+- **🗄️ Bases de Datos Vectoriales** - Implementación con Qdrant para búsquedas semánticas
+- **👁️ Visión Artificial** - Procesamiento de imágenes y reconocimiento visual
+- **📊 Monitoreo con IA** - Sistemas de alertas y análisis predictivo
+- **⚡ AI Workflow Automation** - Automatización de procesos con n8n e IA
 
-#### ⚰️ [Sistema del Lubricentro Oscuro](https://github.com/Damian211997/lubricentro)
-```
-╭─────────────────────────────────────────────────────────────╮
-│  🏰  Templo de gestión donde los aceites sagrados mantienen │
-│      las máquinas vivas y funcionando                       │
-│  💀  Arquitectura completa: frontend, backend y admin       │
-│  🖤  Solución elegante para necesidades comerciales         │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-### 🌙 Poderes del Nigromante
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎭  Maestro del UX/UI - Interfaces que hipnotizan         │
-│  📱  Señor del Responsive - Aplicaciones que se adaptan     │
-│  🔒  Guardián de la Seguridad - Protegiendo secretos       │
-│  ⚡  Cazador de Rendimiento - Velocidad en las sombras      │
-│  🤖  Nigromante de la Automatización - Resucitando procesos │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 📜 Crónicas del Nigromante
+### 📈 Actividad Reciente
 
 <!--START_SECTION:activity-->
-```
-╭─────────────────────────────────────────────────────────────╮
-│  💀  Resucité mi template de Mind-Map en GitHub             │
-│  ⚔️  Luchando contra bugs en el sistema de lubricentro      │
-│  🔮  Estudiando nuevos hechizos y tecnologías               │
-╰─────────────────────────────────────────────────────────────╯
-```
+- 🚀 Subí mi template de Mind-Map a GitHub
+- 💻 Trabajando en mejoras del sistema de lubricentro
+- 🤖 Explorando nuevas tecnologías de IA y automatización
 <!--END_SECTION:activity-->
 
-### 🦇 Contacto con el Más Allá
-
-*"Si buscas al nigromante del código, aquí me encontrarás en las sombras:"*
-
-```
-╭─────────────────────────────────────────────────────────────╮
-│  🖤  LinkedIn  │  ⚰️  Email  │  💀  Portfolio  │
-╰─────────────────────────────────────────────────────────────╯
-```
+### 🤝 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damian211997)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damian@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://damian211997.dev)
-
-### 📖 Grimorios en Estudio
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🔮  IA y Machine Learning - Los secretos de la IA         │
-│  ☁️  Cloud Computing - Dominando las nubes digitales       │
-│  🔐  Ciberseguridad - Protegiendo portales digitales       │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 🎯 Misiones del Nigromante
-
-```
-╭─────────────────────────────────────────────────────────────╮
-│  [ ] 💀 Crear más reliquias open source                     │
-│  [ ] ⚰️ Contribuir al conocimiento de otros nigromantes     │
-│  [ ] 🔮 Aprender nuevos hechizos y tecnologías              │
-│  [ ] 🖤 Ayudar a otros artesanos en su crecimiento          │
-╰─────────────────────────────────────────────────────────────╯
-```
 
 ---
 
-### 💀 Cita del Nigromante
+### 💡 Cita
 
-> *"En cada línea de código hay un alma esperando ser liberada, en cada bug hay una lección esperando ser aprendida, en cada aplicación hay un reino esperando ser conquistado."*
+> *"La IA no reemplaza a los desarrolladores, los hace más poderosos."*
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🖤 ¡Que las sombras del código te guíen! 🖤               ║
-║                                                              ║
-║  *Si mis creaciones te han servido, considera darles una   ║
-║   estrella para que brillen en la eternidad del código*    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+🖤 **¡Gracias por visitar mi perfil!** 🖤
