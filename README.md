@@ -86,13 +86,7 @@
 
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ff6b6b&title_color=ff6b6b)
 
-### 🏆 Proyectos Destacados
 
-#### 🗺️ [Mind-Map Visualizer](https://github.com/Damian211997/Mind-Map)
-Template interactivo para crear mindmaps visuales con funcionalidades de drag & drop.
-
-#### 🏪 [Sistema de Lubricentro](https://github.com/Damian211997/lubricentro)
-Sistema completo de gestión empresarial con frontend, backend y panel administrativo.
 
 ### 🌟 Áreas de Especialización
 
