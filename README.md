@@ -1,4 +1,4 @@
-# 💀 DAMIAN - Full Stack Developer
+
 
 
     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣴⣯⣿⣶⣶⣶⠖⠒⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -64,26 +64,6 @@
 
 
 
-
-
-### 🌟 Áreas de Especialización
-
-- **🤖 Automatizaciones con IA** - Integración de modelos de IA en workflows
-- **🧠 Entrenamiento de Modelos** - Desarrollo y optimización de modelos de machine learning
-- **🗄️ Bases de Datos Vectoriales** - Implementación con Qdrant para búsquedas semánticas
-- **👁️ Visión Artificial** - Procesamiento de imágenes y reconocimiento visual
-- **📊 Monitoreo con IA** - Sistemas de alertas y análisis predictivo
-- **⚡ AI Workflow Automation** - Automatización de procesos con n8n e IA
-
-### 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-- 🚀 Subí mi template de Mind-Map a GitHub
-- 💻 Trabajando en mejoras del sistema de lubricentro
-- 🤖 Explorando nuevas tecnologías de IA y automatización
-<!--END_SECTION:activity-->
-
-### 🤝 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
 
