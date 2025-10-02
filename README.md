@@ -34,10 +34,14 @@
 
 
 
+# ¡Hola! Soy [Tu Nombre], Desarrollador Full-Stack con Enfoque en IA
+
+¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo de software innovador, con experiencia en frontend moderno, backend robusto y soluciones de inteligencia artificial. Me encanta crear aplicaciones escalables que resuelvan problemas reales. Explora mis proyectos y conéctate conmigo.
 
 #### 🎨 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6B35?style=for-the-badge&logo=primeng&logoColor=white)](https://primeng.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -49,7 +53,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🤖 Inteligencia Artificial & Automatización
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![IA](https://img.shields.io/badge/IA-FF6B35?style=for-the-badge&logo=robot&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
@@ -58,9 +63,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=vector&logoColor=white)](https://qdrant.tech/)
 
-
-Contacto
+## 📫 Contacto
+¡Hablemos de colaboraciones o proyectos interesantes!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario) <!-- Reemplaza con tu usuario de GitHub -->
 
+¡Gracias por visitar! 🚀
 
