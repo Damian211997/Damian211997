@@ -69,9 +69,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=vector&logoColor=white)](https://qdrant.tech/)
 
-## 📫 Contacto
-¡Hablemos de colaboraciones o proyectos interesantes!
+## 📫 Contac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
 
-¡Gracias por visitar! 🚀 
+¡THANKS FOR VIEW! 🚀 
