@@ -35,7 +35,7 @@
 
 # ¡Hola! Soy Damián Jelvez, Desarrollador Full-Stack con Enfoque en IA
 
-¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo de software innovador, con experiencia en frontend moderno, backend robusto y soluciones de inteligencia artificial. Me encanta crear aplicaciones escalables que resuelvan problemas reales. Explora mis proyectos y conéctate conmigo.
+
 
 #### 🎨 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
