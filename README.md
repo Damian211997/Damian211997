@@ -33,11 +33,14 @@
 
 </div>
 
-# ¡Hola! Soy Damián Jelvez, Desarrollador Full-Stack con Enfoque en IA
+# ¡Hello, my name is Damian Jelvez, I am a 28-year-old full-stack developer with a passion for developing tools and solutions with AI!
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damian211997&layout=compact&theme=radical)
 
+![Damián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=radical&hide_border=true)
 
 #### 🎨 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -46,6 +49,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6B35?style=for-the-badge&logo=primeng&logoColor=white)](https://primeng.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### ⚙️ Backend
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
