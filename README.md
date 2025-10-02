@@ -35,7 +35,7 @@
 
 
 
-## 🚀 *"Desarrollador Full Stack apasionado por la IA y la automatización"*
+
 
 ### 🛠️ Tecnologías que Domino
 
