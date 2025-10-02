@@ -59,7 +59,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🤖 Inteligencia Artificial & Automatización
-[![IA](https://img.shields.io/badge/IA-FF6B35?style=for-the-badge&logo=robot&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![VLMs](https://img.shields.io/badge/VLMs-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/models?pipeline_tag=vision-language-model)
 [![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
