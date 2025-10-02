@@ -34,7 +34,7 @@
 
 
 
-# ¡Hola! Soy [Tu Nombre], Desarrollador Full-Stack con Enfoque en IA
+# ¡Hola! Soy Damián Jelvez, Desarrollador Full-Stack con Enfoque en IA
 
 ¡Bienvenido a mi perfil! Soy un apasionado por el desarrollo de software innovador, con experiencia en frontend moderno, backend robusto y soluciones de inteligencia artificial. Me encanta crear aplicaciones escalables que resuelvan problemas reales. Explora mis proyectos y conéctate conmigo.
 
@@ -67,7 +67,7 @@
 ¡Hablemos de colaboraciones o proyectos interesantes!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario) <!-- Reemplaza con tu usuario de GitHub -->
+
 
 ¡Gracias por visitar! 🚀
 
