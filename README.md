@@ -35,12 +35,13 @@
 
 # ¡Hello, my name is Damian Jelvez, I am a 28-year-old full-stack developer with a passion for developing tools and solutions with AI!
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damian211997&layout=compact&theme=radical)
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ![Damián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=radical&hide_border=true)
+
 
 #### 🎨 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -69,8 +70,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge&logo=vector&logoColor=white)](https://qdrant.tech/)
 
-## 📫 Contac
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
 
-¡THANKS FOR VIEW! 🚀 
+Thanks for visiting! 🚀 
