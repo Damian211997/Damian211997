@@ -33,7 +33,7 @@
 
 </div>
 
-# ¡Hello, my name is Damian Jelvez, I am a 28-year-old full-stack developer with a passion for developing tools and solutions with AI!
+¡Hello, my name is Damian Jelvez, I am a 28-year-old full-stack developer with a passion for developing tools and solutions with AI!
 
 
 
