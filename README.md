@@ -33,14 +33,9 @@
 
 </div>
 
-# ¡28 | Full-Stack Dev | AI Solutions | Maule, Chile (VII)!
+# | Full-Stack Dev | AI Solutions !
 
 
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damian211997&layout=compact&theme=radical)
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-![Damián GitHub stats](https://github-readme-stats.vercel.app/api?username=Damian211997&show_icons=true&theme=radical&hide_border=true)
 
 
 #### 🎨 Frontend
