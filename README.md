@@ -55,11 +55,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 
 #### 🤖 Inteligencia Artificial & Automatización
 [![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![VLMs](https://img.shields.io/badge/VLMs-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/models?pipeline_tag=vision-language-model)
-[![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
 #### 🗄️ Bases de Datos
@@ -71,4 +72,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-alexander-jelvez-soto-814050266/)
 
-Thanks for visiting! 🚀 
+Thanks for visiting! 🚀
